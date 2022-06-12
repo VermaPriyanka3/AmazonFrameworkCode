@@ -40,6 +40,7 @@ public class LoginPage extends BaseClass {
 		signInButton.click();
 		
 		//Will intialize  the page now in 
+		//test
 	}
 
 }
