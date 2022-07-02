@@ -18,7 +18,7 @@ public class LoginPage extends BaseClass {
 	public LoginPage (WebDriver ldriver) {
 		this.driver = ldriver; 
 	}
-	//Xpaths 
+	//Xpaths
 	@FindBy(xpath=".//input[@type='email']") 
 	WebElement username ; 
 	
